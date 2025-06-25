@@ -1,5 +1,5 @@
 # pokeapi-go
-Pokedex - Practing concepts API in Go
+Pokedex - Practing  API concepts in Go
 
 - Learning Goals
 - Learn how to parse JSON in Go
